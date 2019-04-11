@@ -1,0 +1,7 @@
+mergeSort(A[])
+{
+   if(n>)
+	mergeSort(A[1....n/2])
+	mergeSort(A[n/2+1....n])
+	merge(A[1....n])
+}
